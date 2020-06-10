@@ -1,0 +1,2 @@
+Use your free AWS Account to create an AWS Lex chatbot. It will need the creation of proper intents and slot types. Once it builds sucessfully, go to the channels tab and choose Slack. There are some OAuth and Postback URLs which need to be filled in. 
+Use the lex-dg guide to integrate with Slack. You will need to create an account, a workspace and app on Slack.
